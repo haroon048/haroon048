@@ -22,7 +22,6 @@ I build beautiful, high-quality cross-platform mobile apps with Flutter. Current
 
 | Project | What it is |
 |---|---|
-| [🏥 SehatConnect](https://github.com/haroon048/sehatconnect) | Smart Hospital & Telemedicine System — 17 screens, Patient / Doctor / Admin roles |
 | [🤖 PrepMateAI](https://github.com/haroon048/prepmate-ai) | AI-powered interview prep app — Firebase Auth & Database, Google Gemini API |
 | [📝 NoteNest](https://github.com/haroon048/notenest) | Minimalist note-taking app — Provider architecture, Material 3 light/dark themes, search & bookmarks |
 | [💰 Expense Tracker](https://github.com/haroon048/expense-tracker) | Track income & expenses with clean charts and insights |
